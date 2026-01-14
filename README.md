@@ -16,7 +16,6 @@
 ```text
 Core           • LangChain • LangGraph • CrewAI • AutoGen • LlamaIndex
 LLMs           • GPT-4o • Claude 3.5 • Llama-3.1-70B • Grok • Mixtral
-Local Runners  • Ollama • vLLM • LM Studio • Oobabooga
 Vector DBs     • Chroma • Pinecone • Weaviate • Qdrant
 Tools          • Tavily • Browserless • Playwright • Function calling
 Languages      • Python (main) • pytorch tensorflow 
