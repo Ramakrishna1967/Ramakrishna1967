@@ -4,7 +4,7 @@
 
 
 
-### 🔥 What I'm obsessed with right now
+###  What I'm obsessed with right now
 - Autonomous agents that can reason, plan, use tools & execute  
 - Multi-agent collaboration (swarms, crews, hierarchies)  
 - Long-term memory + episodic memory for LLMs  
